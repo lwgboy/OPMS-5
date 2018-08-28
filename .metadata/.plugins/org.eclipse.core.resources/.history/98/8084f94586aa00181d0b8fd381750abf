@@ -1,0 +1,66 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.opms</groupId>
+  <artifactId>opms-parent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+    <modules>
+        <module>opms-dao</module>
+        <module>opms-domain</module>
+        <module>opms-service</module>
+        <module>opms-web</module>
+        <module>opms-common</module>
+    </modules>
+
+  <parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.7.RELEASE</version>
+		<relativePath /> <!-- lookup parent from repository -->
+	</parent>
+
+ 
+ 
+    <build>
+        <pluginManagement>
+            <plugins>
+                <!--build source-->
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <version>3.1</version>
+                    <configuration>
+                        <source>${java.version}</source>
+                        <target>${java.version}</target>
+                        <showWarnings>true</showWarnings>
+                        <encoding>UTF-8</encoding>
+                    </configuration>
+                </plugin>
+                <!--build war-->
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-war-plugin</artifactId>
+                    <version>2.4</version>
+                    <configuration>
+                        <warName>${project.artifactId}</warName>
+                    </configuration>
+                </plugin>
+                <!--build jar-->
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-jar-plugin</artifactId>
+                    <version>2.4</version>
+                    <configuration>
+                        <archive>
+                            <manifest>
+                                <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                            </manifest>
+                        </archive>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+
+</project>
