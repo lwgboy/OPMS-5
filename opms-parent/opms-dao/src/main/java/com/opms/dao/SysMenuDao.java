@@ -1,6 +1,6 @@
 package com.opms.dao;
 
-import com.platform.entity.SysMenuEntity;
+
 
 import java.util.List;
 

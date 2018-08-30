@@ -1,0 +1,8 @@
+package validator;
+
+public class Snippet {
+	public static void main(String[] args) {
+		validator
+	}
+}
+

@@ -1030,3 +1030,24 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-30 09:55:45.248
 !MESSAGE The POM for com.opms:opms-common:jar:1.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-30 09:57:42.589
+!MESSAGE The POM for com.opms:opms-domain:jar:1.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-30 09:57:42.598
+!MESSAGE The POM for com.opms:opms-common:jar:1.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-30 09:57:54.788
+!MESSAGE The POM for com.opms:opms-domain:jar:1.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-30 09:57:54.796
+!MESSAGE The POM for com.opms:opms-common:jar:1.0-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-30 09:58:58.531
+!MESSAGE The POM for com.opms:opms-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-30 10:00:16.677
+!MESSAGE The POM for com.opms:opms-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-30 10:00:28.291
+!MESSAGE The POM for com.opms:opms-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
