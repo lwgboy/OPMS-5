@@ -4,6 +4,10 @@ package com.opms.dao;
 
 import java.util.List;
 
+import basedao.BaseDao;
+
+import com.opms.entity.SysMenuEntity;
+
 /**
  * 菜单管理
  *

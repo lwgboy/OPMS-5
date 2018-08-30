@@ -1,7 +1,6 @@
 package com.opms.entity;
 
-import com.platform.validator.group.AddGroup;
-import com.platform.validator.group.UpdateGroup;
+
 import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.NotBlank;
 
@@ -27,7 +26,6 @@ public class SysUserEntity implements Serializable {
     /**
      * 用户名
      */
-    @NotBlank(message = "用户名不能为空", groups = {AddGroup.class, UpdateGroup.class})
     private String username;
 
     /**
@@ -38,8 +36,6 @@ public class SysUserEntity implements Serializable {
     /**
      * 邮箱
      */
-    @NotBlank(message = "邮箱不能为空", groups = {AddGroup.class, UpdateGroup.class})
-    @Email(message = "邮箱格式不正确", groups = {AddGroup.class, UpdateGroup.class})
     private String email;
 
     /**

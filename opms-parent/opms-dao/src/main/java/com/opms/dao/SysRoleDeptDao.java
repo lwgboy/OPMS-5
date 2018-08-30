@@ -3,6 +3,10 @@ package com.opms.dao;
 
 import org.apache.ibatis.annotations.Mapper;
 
+import com.opms.entity.SysRoleDeptEntity;
+
+import basedao.BaseDao;
+
 import java.util.List;
 
 /**

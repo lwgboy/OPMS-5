@@ -8,6 +8,13 @@
   <groupId>com.opms</groupId>
   <artifactId>opms-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+		<dependency>
+			<groupId>${project.groupId}</groupId>
+			<artifactId>opms-domain</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
   	 <build>
   	<plugins>
   		<plugin>

@@ -1,9 +1,15 @@
 package com.opms.dao;
 
-import com.platform.entity.SysRoleEntity;
-import com.platform.entity.UserWindowDto;
+import basedao.BaseDao;
+
+
+
+
 
 import java.util.List;
+
+import com.opms.dto.UserWindowDto;
+import com.opms.entity.SysRoleEntity;
 
 /**
  * 角色管理

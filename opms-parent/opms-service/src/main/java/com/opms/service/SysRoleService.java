@@ -1,11 +1,14 @@
 package com.opms.service;
 
-import com.platform.entity.SysRoleEntity;
-import com.platform.entity.UserWindowDto;
-import com.platform.page.Page;
+
 
 import java.util.List;
 import java.util.Map;
+
+import pagehelper.PageBean;
+
+import com.opms.dto.UserWindowDto;
+import com.opms.entity.SysRoleEntity;
 
 
 /**
@@ -38,5 +41,5 @@ public interface SysRoleService {
      * 分页查询角色审批选择范围
      * @return
      */
-    Page<UserWindowDto> queryPageByDto(UserWindowDto userWindowDto, int pageNmu);
+    PageBean<UserWindowDto> queryPageByDto(UserWindowDto userWindowDto, int pageNmu);
 }

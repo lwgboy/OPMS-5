@@ -1,11 +1,14 @@
 package com.opms.service;
 
-import com.platform.entity.SysUserEntity;
-import com.platform.entity.UserWindowDto;
-import com.platform.page.Page;
+
 
 import java.util.List;
 import java.util.Map;
+
+import pagehelper.PageBean;
+
+import com.opms.dto.UserWindowDto;
+import com.opms.entity.SysUserEntity;
 
 
 /**
@@ -82,5 +85,5 @@ public interface SysUserService {
      * @param pageNum
      * @return
      */
-    Page<UserWindowDto> findPage(UserWindowDto userEntity, int pageNum);
+    PageBean<UserWindowDto> findPage(UserWindowDto userEntity, int pageNum);
 }

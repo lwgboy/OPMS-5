@@ -1,8 +1,12 @@
 package com.opms.dao;
 
-import com.platform.entity.SysUserRoleEntity;
+
 
 import java.util.List;
+
+import com.opms.entity.SysUserRoleEntity;
+
+import basedao.BaseDao;
 
 /**
  * 用户与角色对应关系

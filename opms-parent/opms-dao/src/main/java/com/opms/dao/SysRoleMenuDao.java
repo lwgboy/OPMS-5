@@ -1,8 +1,13 @@
 package com.opms.dao;
 
-import com.platform.entity.SysRoleMenuEntity;
+import basedao.BaseDao;
+
+
+
 
 import java.util.List;
+
+import com.opms.entity.SysRoleMenuEntity;
 
 /**
  * 角色与菜单对应关系

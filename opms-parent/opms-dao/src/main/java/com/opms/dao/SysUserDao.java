@@ -1,10 +1,16 @@
 package com.opms.dao;
 
-import com.platform.entity.SysUserEntity;
-import com.platform.entity.UserWindowDto;
+import basedao.BaseDao;
+
+
+
+
 
 import java.util.List;
 import java.util.Map;
+
+import com.opms.dto.UserWindowDto;
+import com.opms.entity.SysUserEntity;
 
 /**
  * 系统用户
