@@ -1,4 +1,4 @@
-package com.platform.utils;
+package exception;
 
 /**
  * 自定义异常

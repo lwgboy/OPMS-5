@@ -1,8 +1,10 @@
-package com.platform.utils;
+package xml;
 
 import org.dom4j.Document;
 import org.dom4j.DocumentHelper;
 import org.dom4j.Element;
+
+import utils.StringUtils;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;

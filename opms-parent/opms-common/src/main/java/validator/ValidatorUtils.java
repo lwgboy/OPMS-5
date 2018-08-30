@@ -1,10 +1,13 @@
-package com.platform.validator;
+package validator;
 
-import com.platform.utils.RRException;
+
 
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;
 import javax.validation.Validator;
+
+import exception.RRException;
+
 import java.util.Set;
 
 /**

@@ -1,7 +1,9 @@
-package com.platform.validator;
+package validator;
 
-import com.platform.utils.RRException;
+
 import org.apache.commons.lang.StringUtils;
+
+import exception.RRException;
 
 /**
  * 数据校验
