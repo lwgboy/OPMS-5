@@ -2535,3 +2535,150 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 2 problems we
 2018-08-29 16:04:06,792 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-08-29 16:04:06,794 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-08-29 16:04:06,794 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:27:59,628 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.opms:opms-parent:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\pom.xml.
+2018-08-30 09:28:01,588 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms-service:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-service\pom.xml.
+2018-08-30 09:28:02,064 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms.common:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-common\pom.xml.
+2018-08-30 09:28:02,534 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms-domain:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-domain\pom.xml.
+2018-08-30 09:28:03,023 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms-dao:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-dao\pom.xml.
+2018-08-30 09:28:03,517 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms-web:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-web\pom.xml.
+2018-08-30 09:28:14,565 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:14,570 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:14,571 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:14,573 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:14,574 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:15,623 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:15,652 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:15,653 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:15,655 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:15,655 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:17,727 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:17,727 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:17,727 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:17,729 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:17,729 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:19,046 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:19,059 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1145 resources
+2018-08-30 09:28:25,063 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\OPMS\opms-parent\opms-web\src\main\resources\env\local
+2018-08-30 09:28:25,065 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:25,065 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:27,394 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:27,394 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:27,395 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:28:27,396 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:28:27,396 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:45:37,117 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:45:37,295 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1145 resources
+2018-08-30 09:45:37,514 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\OPMS\opms-parent\opms-web\src\main\resources\env\local
+2018-08-30 09:45:37,515 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:45:37,516 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:45:41,247 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:45:41,290 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1145 resources
+2018-08-30 09:45:41,491 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\OPMS\opms-parent\opms-web\src\main\resources\env\local
+2018-08-30 09:45:41,492 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:45:41,493 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:45:48,131 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:45:48,165 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1145 resources
+2018-08-30 09:45:48,356 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\OPMS\opms-parent\opms-web\src\main\resources\env\local
+2018-08-30 09:45:48,358 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:45:48,358 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:47:47,733 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:47:47,769 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1145 resources
+2018-08-30 09:47:47,974 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\OPMS\opms-parent\opms-web\src\main\resources\env\local
+2018-08-30 09:47:47,975 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:47:47,975 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:47:53,091 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:47:53,130 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1145 resources
+2018-08-30 09:47:53,339 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\OPMS\opms-parent\opms-web\src\main\resources\env\local
+2018-08-30 09:47:53,340 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:47:53,340 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:52,866 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:49:52,866 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:52,866 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:52,867 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:49:52,867 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:53,849 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:49:53,849 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:53,850 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:53,851 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:49:53,851 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:54,807 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:49:54,808 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:54,808 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:54,810 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:49:54,811 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:49:54,908 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:49:54,941 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1145 resources
+2018-08-30 09:49:55,158 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\OPMS\opms-parent\opms-web\src\main\resources\env\local
+2018-08-30 09:49:55,160 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:49:55,160 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:51:39,357 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:51:39,358 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:51:39,358 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:51:39,359 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:51:39,359 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:51:58,368 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:51:58,369 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:51:58,369 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:51:58,370 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:51:58,370 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:52:16,446 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:52:16,446 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:52:16,447 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:52:16,448 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:52:16,448 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:52:30,425 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:52:30,425 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:52:30,426 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:52:30,427 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:52:30,427 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:53:06,659 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:53:06,660 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:53:06,660 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:53:06,661 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:53:06,661 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:54:50,590 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms-dao:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-dao\pom.xml.
+2018-08-30 09:54:50,704 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:hunt-model:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:54:50,716 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:hunt-common:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:54:51,832 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:54:51,832 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:54:51,833 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:54:51,834 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:54:51,834 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:27,128 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:opms-domain:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:55:27,139 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:hunt-common:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:55:28,445 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms-dao:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-dao\pom.xml.
+2018-08-30 09:55:28,455 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:opms-domain:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:55:28,463 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:hunt-common:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:55:35,398 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms.common:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-common\pom.xml.
+2018-08-30 09:55:36,070 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms.common:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-common\pom.xml.
+2018-08-30 09:55:37,226 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:37,226 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:37,226 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:37,228 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:37,228 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:37,290 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:opms-domain:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:55:37,298 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:hunt-common:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:55:38,113 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:38,113 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:38,113 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:38,114 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:38,114 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:39,826 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms.common:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-common\pom.xml.
+2018-08-30 09:55:40,903 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:40,903 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:40,903 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:40,904 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:40,904 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:42,867 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:42,867 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:42,867 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:42,868 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:42,868 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:45,231 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.opms:opms-dao:0.0.1-SNAPSHOT @ E:\github\OPMS\opms-parent\opms-dao\pom.xml.
+2018-08-30 09:55:45,240 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:opms-domain:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:55:45,248 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.opms:opms-common:jar:1.0-SNAPSHOT is missing, no dependency information available
+2018-08-30 09:55:46,297 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:46,298 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:46,298 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 09:55:46,299 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 09:55:46,299 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
