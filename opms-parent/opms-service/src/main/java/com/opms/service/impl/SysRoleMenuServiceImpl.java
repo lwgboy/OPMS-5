@@ -1,10 +1,12 @@
 package com.opms.service.impl;
 
-import com.platform.dao.SysRoleMenuDao;
-import com.platform.service.SysRoleMenuService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import com.opms.dao.SysRoleMenuDao;
+import com.opms.service.SysRoleMenuService;
 
 import java.util.HashMap;
 import java.util.List;

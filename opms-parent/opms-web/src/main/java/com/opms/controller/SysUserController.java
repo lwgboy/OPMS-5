@@ -1,19 +1,19 @@
-package com.platform.controller;
+package com.opms.controller;
 
-import com.platform.annotation.SysLog;
-import com.platform.entity.SysUserEntity;
-import com.platform.service.SysUserRoleService;
-import com.platform.service.SysUserService;
-import com.platform.utils.*;
-import com.platform.validator.Assert;
-import com.platform.validator.ValidatorUtils;
-import com.platform.validator.group.AddGroup;
-import com.platform.validator.group.UpdateGroup;
+
 import org.apache.commons.lang.ArrayUtils;
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.apache.shiro.crypto.hash.Sha256Hash;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+
+import utils.Constant;
+import utils.R;
+
+import com.opms.entity.SysUserEntity;
+import com.opms.service.SysUserRoleService;
+import com.opms.service.SysUserService;
+import com.opms.utils.ShiroUtils;
 
 import java.util.List;
 import java.util.Map;

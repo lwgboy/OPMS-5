@@ -1,0 +1,8 @@
+package Global;
+
+public class Snippet {
+	public static void main(String[] args) {
+		Global
+	}
+}
+

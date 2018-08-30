@@ -1,9 +1,12 @@
-package com.platform.controller;
+package com.opms.controller;
 
-import com.platform.entity.SysUserEntity;
-import com.platform.utils.ShiroUtils;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import com.opms.entity.SysUserEntity;
+import com.opms.utils.ShiroUtils;
+
 
 /**
  * Controller公共组件

@@ -1,9 +1,11 @@
-package com.platform.utils;
+package com.opms.utils;
 
-import com.platform.entity.SysUserEntity;
+
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.session.Session;
 import org.apache.shiro.subject.Subject;
+
+import com.opms.entity.SysUserEntity;
 
 /**
  * Shiro工具类

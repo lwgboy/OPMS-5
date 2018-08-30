@@ -1,19 +1,21 @@
 package com.opms.service.impl;
 
-import com.platform.dao.SysRoleDao;
-import com.platform.entity.SysRoleEntity;
-import com.platform.entity.UserWindowDto;
-import com.platform.page.Page;
-import com.platform.page.PageHelper;
-import com.platform.service.SysRoleDeptService;
-import com.platform.service.SysRoleMenuService;
-import com.platform.service.SysRoleService;
-import com.platform.service.SysUserService;
-import com.platform.utils.Constant;
-import com.platform.utils.RRException;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import utils.Constant;
+
+import com.opms.dao.SysRoleDao;
+import com.opms.dto.UserWindowDto;
+import com.opms.entity.SysRoleEntity;
+import com.opms.service.SysRoleDeptService;
+import com.opms.service.SysRoleMenuService;
+import com.opms.service.SysRoleService;
+import com.opms.service.SysUserService;
+
+import exception.RRException;
 
 import java.util.Date;
 import java.util.List;

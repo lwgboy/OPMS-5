@@ -1,10 +1,12 @@
 package com.opms.service.impl;
 
-import com.platform.dao.SysRoleDeptDao;
-import com.platform.service.SysRoleDeptService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import com.opms.dao.SysRoleDeptDao;
+import com.opms.service.SysRoleDeptService;
 
 import java.util.HashMap;
 import java.util.List;

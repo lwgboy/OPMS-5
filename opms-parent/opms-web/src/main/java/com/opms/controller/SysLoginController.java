@@ -1,23 +1,25 @@
-package com.platform.controller;
+package com.opms.controller;
 
-import com.google.code.kaptcha.Constants;
-import com.google.code.kaptcha.Producer;
-import com.platform.annotation.SysLog;
-import com.platform.utils.R;
-import com.platform.utils.ShiroUtils;
+
 import org.apache.shiro.authc.*;
 import org.apache.shiro.crypto.hash.Sha256Hash;
 import org.apache.shiro.subject.Subject;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.kafka.KafkaProperties.Producer;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import utils.R;
+
+import com.opms.utils.ShiroUtils;
+
 import javax.imageio.ImageIO;
 import javax.servlet.ServletException;
 import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServletResponse;
+
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 
@@ -52,7 +54,7 @@ public class SysLoginController {
     /**
      * 登录
      */
-    @SysLog("登录")
+  
     @ResponseBody
     @RequestMapping(value = "/sys/login", method = RequestMethod.POST)
     public R login(String username, String password, String captcha) throws IOException {
