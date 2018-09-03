@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model/>
+<aop-reference-model>
+<aop-project name="opms-dao"/>
+<aop-project name="opms-web"/>
+<aop-project name="opms-domain"/>
+<aop-project name="opms-service"/>
+<aop-project name="opms-common"/>
+</aop-reference-model>
